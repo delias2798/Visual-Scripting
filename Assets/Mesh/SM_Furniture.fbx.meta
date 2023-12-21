@@ -3,7 +3,52 @@ guid: dec7cd0f56962f342bd173408f1dfd17
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blacl
+    second: {fileID: 2100000, guid: 86132b47ea36f9a47b104e1d392da3cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlueRoma
+    second: {fileID: 2100000, guid: 79132346b0e1c5d4aa9d1f6a961db9ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cocacola_mat
+    second: {fileID: 2100000, guid: eb87f9dee06828f4c8ee1d014fcf8567, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: camaraFriaDosPinosPuerta_01_auv
+    second: {fileID: 2100000, guid: e9590f19971c6c843831b39a21876d4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: camaraFriaDosPinosPuerta_01_auv.002
+    second: {fileID: 2100000, guid: b0f48a08d5cb1b34ab89b011afefef96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: camaraFriaDosPnos_01_auv
+    second: {fileID: 2100000, guid: 597d35f2ecfedd44bbb92251be4f3904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: camaraFriaDosPnos_01_auv.002
+    second: {fileID: 2100000, guid: 3259b405ecdff81408264d02e6d3020f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default
+    second: {fileID: 2100000, guid: 035a1686721ad514aa3aa0bc867803b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: estanteriaGalletas_auv
+    second: {fileID: 2100000, guid: ce89e8be86cc3854897af6d3b071e3fc, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

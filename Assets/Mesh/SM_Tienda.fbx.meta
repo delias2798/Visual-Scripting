@@ -3,7 +3,32 @@ guid: 2449af9475819824882fbb57defbd108
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road
+    second: {fileID: 2100000, guid: de4a21281c73b0e4d97077c1c619d69e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door
+    second: {fileID: 2100000, guid: fe36310002610dc44b0f7f4a11638faf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sideWalk
+    second: {fileID: 2100000, guid: 453ccf0b52fea554ea3679a4c4693f4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall
+    second: {fileID: 2100000, guid: f6392a70c0a180549832a0ca84237a7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window
+    second: {fileID: 2100000, guid: d5efdb51c50e7354ea2a2eeef75e1dfc, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -3,7 +3,102 @@ guid: a10fc855f44f49449873fd43a76689e8
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn73SG.001
+    second: {fileID: 2100000, guid: e038bc5c5996a0a4992ed0919a4a63be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cajadejugo1_auv
+    second: {fileID: 2100000, guid: b59337fff1a4c754b975d354e6844551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cajadejugo1_auv.001
+    second: {fileID: 2100000, guid: 89f35d0e3ed4dae4cbe0a9d4627b75f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coke2L_auv
+    second: {fileID: 2100000, guid: 27421ad62d089de4f90b537c81304fc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube1_auv
+    second: {fileID: 2100000, guid: 3f146ffe897f46243ac3beca3628f868, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube1_auv.002
+    second: {fileID: 2100000, guid: fc3804c78f971fa41a095c7cde3dfb2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube1_auv.003
+    second: {fileID: 2100000, guid: 51d2f4e482880524f994a98f67150fdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube1_auv.004
+    second: {fileID: 2100000, guid: d7cead758c185324388a53046e62d4ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cylinder2_auv.002
+    second: {fileID: 2100000, guid: 1509b3fe25a06a0489079ce88ea49351, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cylinder2_auv.003
+    second: {fileID: 2100000, guid: 139f23a333927c44f8a01e4f0df2f091, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cylinder2_auv.004
+    second: {fileID: 2100000, guid: 86eb566cb74294040be549178d3ef66b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cylinder2_auv.005
+    second: {fileID: 2100000, guid: e9afd9475c8ed3541977ba4d96e53157, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cylinder2_auv.006
+    second: {fileID: 2100000, guid: 1293fdf69989dcf4185d501f8a0467da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marcas_blinn15SG
+    second: {fileID: 2100000, guid: e5680a759867f2842b534f64efbe5b14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marcas_blinn16SG
+    second: {fileID: 2100000, guid: 0f91235f108232349b306f7a9f1d47ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marcas_blinn25SG
+    second: {fileID: 2100000, guid: 0e20a53e83ed39941a5b2eab7ee12e4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marcas_blinn26SG
+    second: {fileID: 2100000, guid: 9e5aace914ae2c947b211a1d64e27fcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1SG
+    second: {fileID: 2100000, guid: c5329402eafe2544190b157764787ef0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1SG.001
+    second: {fileID: 2100000, guid: 8a38ccd32abd4c64e98386e821fe44b4, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
