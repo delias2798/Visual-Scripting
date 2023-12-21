@@ -3,7 +3,122 @@ guid: e4f674e6d771c2847911c32e2dc7f9ab
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BottleCap
+    second: {fileID: 2100000, guid: 637e2f434b6b89d4db6b2d852dd2c9b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CheeseTex
+    second: {fileID: 2100000, guid: 224414666bfd582428d0bff24e9472b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DarkGreen
+    second: {fileID: 2100000, guid: a689511439a594a48bbcf51d4f1fe285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightBrown
+    second: {fileID: 2100000, guid: c406c484e0730ea499d9bbed35845252, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snackers
+    second: {fileID: 2100000, guid: 973ced816278bce4d8be5cb09ac8b412, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow.001
+    second: {fileID: 2100000, guid: f4f5211fd293f6248adaefc9d580e93e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn101SG
+    second: {fileID: 2100000, guid: 7b92eeb5b942abd48baf18d819bb89d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn2SG
+    second: {fileID: 2100000, guid: 50d88ff651b1b2a42b13584ada9e576d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn32SG
+    second: {fileID: 2100000, guid: 3786f050094ef8142a0a1433d8066911, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn97SG
+    second: {fileID: 2100000, guid: 1f4815bc1a148354faa0194106713f33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cajacereal3_cube2_auv
+    second: {fileID: 2100000, guid: d229313c856f0f043bd78886173d9534, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cajacereal3_cube2_auv.001
+    second: {fileID: 2100000, guid: 738e9cdf7bdbf134e99110d71b44686b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube2_auv
+    second: {fileID: 2100000, guid: 11937840877dc004f8ca449c449943b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube3_auv
+    second: {fileID: 2100000, guid: 9ec4d350bc03da94db113172c85284f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cube3_auv.001
+    second: {fileID: 2100000, guid: 4e043b8c635d1274c85825dd0b78ea84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cylinder2_auv
+    second: {fileID: 2100000, guid: 67327617c05ab294594f8491e3441c39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marcas_blinn8SG
+    second: {fileID: 2100000, guid: f81f6a7de5b785a4e86a11599e03187a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: objCajacereal1_cube2_auv
+    second: {fileID: 2100000, guid: 63b1755da8183d14d9ab8e8eb972cb39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong10SG
+    second: {fileID: 2100000, guid: 860490a7040f56547b542a90ef9f782f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong10SG.001
+    second: {fileID: 2100000, guid: 15a72fffd13db1344a1bd83e49c756db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong14SG
+    second: {fileID: 2100000, guid: 16d76aca3afb69841b692c57ff5ec103, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong8SG
+    second: {fileID: 2100000, guid: 07d03c8d573cb484ca63602750811412, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: uv_pastaroma
+    second: {fileID: 2100000, guid: 99b0de0d8087ef04a93ac8921e6b19c7, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
